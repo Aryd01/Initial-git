@@ -1,3 +1,3 @@
 # initial git 
 
-something about git demo.
+something about git demo!
